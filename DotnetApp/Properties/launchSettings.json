@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DotnetApp": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\ClausNielsen\\OneDrive\\Dokumenter\\Danske bank\\SourceFiles\""
+    }
+  }
+}
